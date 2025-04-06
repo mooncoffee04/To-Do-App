@@ -23,3 +23,4 @@ A minimalistic To-Do web app with authentication and full CRUD support. Built wi
 git clone https://github.com/mooncoffee04/To-Do-App.git
 cd To-Do-App
 npm install
+
